@@ -24,5 +24,6 @@ Purpose
 
 This project was created to practice **HTML and CSS** and to understand how to build a modern travel website layout from scratch.
 
+URL: https://deekshitha-u.github.io/tripadvisor-clone/
 Author
 Deekshitha
